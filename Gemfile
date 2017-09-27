@@ -42,6 +42,7 @@ gem "select2-rails"
 gem "nested_form_fields"
 gem 'awesome_rails_console'
 gem "bootstrap-datepicker-rails"
+gem "ckeditor"
 
 group :development, :test do
   gem 'rspec-rails'
